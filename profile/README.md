@@ -3,6 +3,10 @@
 Extensions, station drivers and skins for [WeeWX](https://weewx.com/).
 Browse one catalog to find packages and their installation instructions.
 
+For stock WeeWX, follow each package's archive-installation instructions.
+Repository search and updates use the experimental
+[standalone package manager](https://github.com/weewx-packages/weewx-package-manager#install).
+
 [Browse the catalog](https://github.com/weewx-packages/catalog#readme) ·
 [Compatibility checks](https://github.com/weewx-packages/catalog/actions/workflows/compatibility.yml) ·
 [Upstream activity and backup status](https://github.com/weewx-packages/catalog/issues/1)
