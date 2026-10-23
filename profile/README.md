@@ -21,6 +21,7 @@ requirements are documented per package.
 ## Start here
 
 - [Package catalog](https://github.com/weewx-packages/catalog#readme): available packages, installation and updates.
+- [Package manager](https://github.com/weewx-packages/weewx-package-manager): installable repository client for stock WeeWX, currently experimental.
 - [Ecowitt HTTP Push](https://github.com/weewx-packages/weewx-ecowitt-http-push): receive uploads from Ecowitt gateways and consoles.
 - [LiveData](https://github.com/weewx-packages/weewx-livedata): publish live weather readings through `live.php`.
 - [Davis RTL-SDR](https://github.com/weewx-packages/weewx-rtldavis): receive Davis wireless observations with an RTL-SDR receiver.
